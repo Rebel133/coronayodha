@@ -1,0 +1,97 @@
+.card_hover {
+  background: rgba(170, 178, 255, 0.35);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card_hover1 {
+  background: rgba(70, 209, 77, 0.35);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card_hover2 {
+  background: rgba(221, 240, 50, 0.178);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card_hover3 {
+  background: rgba(231, 38, 38, 0.288);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card_hover4 {
+  background: rgba(255, 170, 230, 0.35);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card_hover5 {
+  background: rgba(170, 255, 174, 0.35);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.card_hover:hover {
+  transform: translateY(-15px);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.card_hover1:hover {
+  transform: translateY(-15px);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.card_hover2:hover {
+  transform: translateY(-15px);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.card_hover3:hover {
+  transform: translateY(-15px);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.card_hover4:hover {
+  transform: translateY(-15px);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.card_hover5:hover {
+  transform: translateY(-15px);
+  transition: 0.5s;
+  border-radius: 5px;
+}
+.live {
+  animation: transform ease-in infinite 2s;
+}
+@keyframes transform {
+  0% {
+    transform: translateY(0px);
+    transition: 0.5s;
+  }
+
+  50% {
+    transform: translateY(-15px);
+    transition: 0.5s;
+  }
+
+  100% {
+    transform: translateY(0px);
+    transition: 0.5s;
+  }
+}

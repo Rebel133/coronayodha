@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+section {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+header {
+  background: url(../img/bg1.png) no-repeat;
+  background-size: 100% 100%;
+}
+.left_sec {
+  width: 100%;
+  text-align: center;
+  margin-top: 20%;
+}
+.left_sec h2 {
+  font-size: 20px !important;
+  text-transform: capitalize;
+  font-weight: lighter;
+  color: #242424;
+}
+.left_sec h1 {
+  color: rgb(248, 188, 139);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 18%;
+  width: 77%;
+  animation: transform ease-in infinite 2s;
+}
+
+.left_sec .text {
+  color: rgb(247, 75, 22);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+@keyframes transform {
+  0% {
+    transform: translateY(0px);
+    transition: 0.5s;
+  }
+
+  50% {
+    transform: translateY(-15px);
+    transition: 0.5s;
+  }
+
+  100% {
+    transform: translateY(0px);
+    transition: 0.5s;
+  }
+}
