@@ -33,13 +33,7 @@ const Events = () => {
                               including Shubham B. and Mansi Pawar as well as to
                               our Leader Sandesh Khore and rest of the team
                               members for making their valuable contributions to
-                              this campaign "All members were following all the
-                              rules laid down by the Center and State while
-                              conducting the donation camp". The main purpose of
-                              our campaign was to raise awareness that
-                              individuals can save lives and improve the health
-                              of others by donating blood. And we were able to
-                              achieve our purpose successfully.
+                              this campaign.
                             </p>
                           </div>
                           <div
@@ -78,21 +72,7 @@ const Events = () => {
                               and relaxing session. It was conducted virtually
                               via online mode. The session was all about how to
                               be happy and stay positive in this time of
-                              pandemic. What to do and what not to do all the
-                              points were briefly explained by the presenter.
-                              Peoples from different cities of India joined the
-                              session and make their valuable feedback and
-                              interaction in the session. They were able to get
-                              solved their doubts regarding the topic. After the
-                              session we also had group discussion with our team
-                              members and people who were present in the meeting
-                              on how to handle various difficult situations. We
-                              recieved all the positive responses from the
-                              people. This shows that they enjoyed the session.
-                              The main purpose of this session was to make
-                              awareness about how to keep our self motivated and
-                              always think positive and stay happy. We were
-                              successfully able to achieve our moto.
+                              pandemic.
                             </p>
                           </div>
                           <div

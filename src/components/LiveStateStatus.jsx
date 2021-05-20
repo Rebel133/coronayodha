@@ -18,8 +18,8 @@ const LiveStateStatus = () => {
         <Navbar />
         <div className="container-fluid mt-2 overflow-hidden">
           <div className="main-heading">
-            <h1 className="mb-3 text-center">
-              <span className="font-weight-bold ">INDIA</span>
+            <h1 className="mb-3 text-center text-uppercase font-weight-bold">
+              <span className="font-weight-bold ">INDIA &nbsp;</span>
               Covid-19 Dashboard
             </h1>
           </div>
